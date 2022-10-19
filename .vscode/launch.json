@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "c:\\Users\\adria\\OneDrive\\Documents\\GitHub\\Project1-FirstDeliverable\\index.html"
+        }
+    ]
+}
