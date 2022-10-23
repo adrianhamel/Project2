@@ -1,3 +1,44 @@
 body {
-    background-color: black;
+    background-color: #131417;
+    color: white;
+}
+
+.navbar {
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    position: fixed;
+    text-align: center;
+    background-color: #222221;
+}
+
+.navbar ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+.navbar ul li{
+    display: inline-block;
+}
+
+.navbar ul li a {
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar ul li a:hover{
+    text-decoration: underline overline;
+    background-color: white;
+    color: green;
+}
+
+.index {
+    text-align: left;
+}
+.home {
+    text-align: center;
+}
+
+.about {
+    text-align: center;
 }
