@@ -59,8 +59,8 @@ body h1 {
 }
 
 .about video {
-    height: 15em;
-    width: 30em;
+    height: 20em;
+    width: 20em;
 }
 
 #img-skyline {
@@ -69,8 +69,10 @@ body h1 {
 }
 
 #img-food1 {
-    
+  height: 25%;
+  width: 25%;
 }
-#img-food2 {
-    
+#img-arch {
+  height: 25%;
+  width: 25%;   
 }
