@@ -37,10 +37,18 @@ body h1 {
 }
 
 .index {
-    text-align: left;
+    text-align: center;
 }
 
+.index section {
+  padding: 2px;
+  border: solid .5em;
+  border-color: forestgreen;
+}
 
+.index li {
+    list-style: none;
+}
 .home {
     text-align: center;
 }
@@ -53,4 +61,16 @@ body h1 {
 .about video {
     height: 15em;
     width: 30em;
+}
+
+#img-skyline {
+  height: 15%;
+  width: 30%;
+}
+
+#img-food1 {
+    
+}
+#img-food2 {
+    
 }
